@@ -1,0 +1,14 @@
+"*":
+  "exception-reporting":
+    userId: "9c740e33-36f5-9f2e-08e2-c8e77fb3082f"
+  welcome:
+    showOnStartup: false
+  core:
+    projectHome: "/Users/sp3c1/projects"
+    disabledPackages: [
+      "js-refactor"
+      "refactor"
+    ]
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
